@@ -25,6 +25,7 @@ namespace Zadanie_6
             Console.WriteLine($"{a}/{b}={iloraz}" );
             Console.WriteLine($"{a}*{b}={iloczyn}" );
             Console.ReadKey(true);
+
         }
     }
 }

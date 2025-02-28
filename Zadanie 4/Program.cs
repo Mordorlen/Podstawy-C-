@@ -21,6 +21,7 @@ namespace Zadanie_4
             Console.WriteLine("Pole={0}", 2*a+2*b);
             Console.ReadKey(true);
 
+
         }
     }
 }

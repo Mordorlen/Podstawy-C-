@@ -20,6 +20,7 @@ namespace Zadanie_5
             Console.WriteLine("objętość jest rowna {0}", 1.0 / 3 * r * r * Math.PI);
             Console.WriteLine("pole całkowite jes t rowne {0}", Math.PI * r * l);
             Console.ReadKey(true);
+
         }
     }
 }

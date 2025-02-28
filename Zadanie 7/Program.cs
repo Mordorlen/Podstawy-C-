@@ -14,7 +14,11 @@ namespace Zadanie_7
             //uwzględnieniem części całkowitej i reszty z dzielenia.
             double a, b;
             Console.WriteLine("a");
-            a = 
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("b");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("{0}/{1}={2}r{3}", a, b, a/b, a%b);
+            Console.ReadKey(true);
         }
     }
 }
