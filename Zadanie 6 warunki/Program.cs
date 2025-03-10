@@ -13,7 +13,7 @@ namespace Zadanie_6_warunki
             // Napisać program wczytujący numer miesiąca (od 1 do 12) i wypisujący na ekranie nazwę tego
             // miesiąca.Użyj instrukcji wyboru switch
             Console.WriteLine("Podaj numer miesiąca: ");
-            int miesiac = int.Parse(Console.ReadLine());
+            int miesiac = int.Parse(Console.ReadLine( ));
             Console.WriteLine(miesiac);
             switch (miesiac)
             {
