@@ -27,7 +27,7 @@ namespace Zadanie_7._2
 
             Console.WriteLine("Max(2.5, 3.5)={0}", Max(2.5, 3.5));
             Console.WriteLine("Max(2.5, 3.5)={0}", Max(2.5, 3.5));
-            
+            Console.ReadKey();
 
         }
     } 
